@@ -2,25 +2,25 @@
 
 Backend Engineer focused on scalable systems, SaaS platforms, and developer tools.
 
-I design and build distributed backend services that handle real-world scale — from HR SaaS modules to blockchain marketplaces.  
+I design and build distributed backend services that handle real-world scale from HR SaaS modules to blockchain marketplaces.  
 My work sits at the intersection of system design, performance optimization, and practical AI integration.
 
 ---
 
 ## 🚀 What I'm Building
 
-### 🗃 QueryBox  
+### QueryBox  
 A lightweight, extensible cross-platform database tool.
 
 → https://github.com/felixdotgo/querybox  
 
-### 🏠 Homelab  
+### Homelab  
 My personal infrastructure lab.  
 A playground for distributed systems, container orchestration, monitoring, and self-hosted experiments.
 
 → https://github.com/0x46656C6978/homelab  
 
-### ✍️ Writing  
+### Writing  
 I share thoughts on backend architecture, database internals, AI integration (LLM + Bedrock), and system design lessons learned from production systems.
 
 → https://iamfelix.dev  
