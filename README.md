@@ -3,7 +3,7 @@
 Backend Engineer interested in SaaS, developer tools, system design, and practical AI workflows.
 
 ## Projects
-#### [AI-DLC Workflow](https://github.com/felixdotgo/aidlc-workflow)
+#### [AI-DLC kit](https://github.com/felixdotgo/aidlc-kit)
 
 A local development workflow for AI coding agents, covering clarification, planning, implementation, review, and project context management. It currently supports Claude Code, Codex, Cursor, Kiro, Google Antigravity, and generic agents.
 
